@@ -8,4 +8,4 @@ int main()
 	res=num^((pos-1)<<1);
 	cout<<res;
 }
-© 2021 GitHub, Inc.
+
